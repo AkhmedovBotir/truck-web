@@ -1862,4 +1862,12 @@ body.mobile-nav-active #mobile-nav-toggle {
     margin-right: auto;
     margin-left: auto;
   }
+  .aaas{
+    display: flex !important;
+    flex-direction: column !important;
+  }
+  .btna,
+  .btnaa{
+    width: 100% !important;
+  }
 }
