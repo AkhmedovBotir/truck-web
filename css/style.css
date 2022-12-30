@@ -1870,4 +1870,20 @@ body.mobile-nav-active #mobile-nav-toggle {
   .btnaa{
     width: 100% !important;
   }
+  .modal-content{
+    width: 100% !important;
+  }
+  .ww{
+    display: flex !important;
+    flex-direction: column !important;
+  }
+  .ssa{
+    width: 100% !important;
+  }
+  .saa{
+    font-size: 1rem !important;
+  }
+  .sa{
+    margin-top: 18px;
+  }
 }
